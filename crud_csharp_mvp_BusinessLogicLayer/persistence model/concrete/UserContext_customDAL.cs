@@ -26,8 +26,25 @@ namespace crud_csharp_mvp_BusinessLogicLayer.persistence_model.concrete {
 
         public List<user> getListOfAllUsers()
         {
-          
-            throw new NotImplementedException();
+
+            List<user> users = new List<user>();
+            query("SELECT * FROM user");
+            if (result.Rows.Count > 0)
+            {
+                for (int i = 0; i <= result.Rows.Count - 1; i++)
+                {
+                    user retrievedUser = null;
+
+                    retrievedUser = user.mapUser(
+                        (int)result.Rows[0]["id"], result.Rows[i]["username"].ToString(),
+                        result.Rows[i]["password"].ToString(),
+                        result.Rows[i]["accounttype"].ToString()
+                    );
+
+                    users.Add(retrievedUser);
+                }
+            }
+            return users;
         }
 
         public user getUserById(int id)
