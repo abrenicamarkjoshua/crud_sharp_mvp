@@ -1,0 +1,6 @@
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\bin\Debug\crud_csharp_mvp_customDAL.dll.config
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\bin\Debug\crud_csharp_mvp_customDAL.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\bin\Debug\crud_csharp_mvp_customDAL.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\obj\Debug\crud_csharp_mvp_customDAL.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\obj\Debug\crud_csharp_mvp_customDAL.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_customDAL\obj\Debug\crud_csharp_mvp_customDAL.csprojResolveAssemblyReference.cache

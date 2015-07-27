@@ -1,0 +1,12 @@
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\obj\Debug\crud_csharp_mvp_ApplicationController.csprojResolveAssemblyReference.cache
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_ApplicationController.dll.config
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_ApplicationController.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_ApplicationController.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_BusinessLogicLayer.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_customDAL.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\EntityFramework.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_BusinessLogicLayer.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\crud_csharp_mvp_customDAL.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\bin\Debug\EntityFramework.xml
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\obj\Debug\crud_csharp_mvp_ApplicationController.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\crud_csharp_mvp_ApplicationController\obj\Debug\crud_csharp_mvp_ApplicationController.pdb

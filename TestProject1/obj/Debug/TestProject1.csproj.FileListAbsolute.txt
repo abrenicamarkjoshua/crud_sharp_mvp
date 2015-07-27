@@ -1,0 +1,4 @@
+C:\Users\joshua\Desktop\crud_csharp_mvp\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\joshua\Desktop\crud_csharp_mvp\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\joshua\Desktop\crud_csharp_mvp\TestProject1\obj\Debug\TestProject1.pdb
